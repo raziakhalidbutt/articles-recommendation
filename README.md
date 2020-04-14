@@ -10,7 +10,5 @@ You need Anaconda distribution of python 3.* version. No additional libraries ar
    * **user-item-interactions.csv:** file contains user interaction.
    * **articles_community.csv:** file contains articles description.
    
-# Acknowledgements
 
-This dataset is provided by IBM.
 
